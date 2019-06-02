@@ -2,7 +2,7 @@
 ## My first project
 
 Ex:
-* 123
-* 234
-* 345
+* Test1
+* Test2
+* 2019/06/02
 * 456
